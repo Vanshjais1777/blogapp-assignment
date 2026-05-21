@@ -80,7 +80,3 @@ Access the public SEO-optimized blog at `http://localhost:3000`.
 - `POST /api/blogs` - Create a new blog (Admin, Editor, Author)
 - `PUT /api/blogs/:id` - Update blog (Admin, Editor, Author)
 - `DELETE /api/blogs/:id` - Delete blog (Admin, Editor, Author)
-
-## 📸 Screenshots
-
-*(To be added - The system features a stunning glassmorphism admin panel and a beautiful dark-mode Next.js frontend reader experience).*
